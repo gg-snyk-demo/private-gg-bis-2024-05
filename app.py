@@ -1,7 +1,14 @@
 import antigravity
 
-client_id=ACCARO8L50W3GN7TTQ01
-client_secret=D9XC3mMFwpAxW4zweybt5DGgbnIhNmW72S5MSLC8
+CERT="""-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABBxVHPKJL
+3wd+tkWCk25kuwAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIKWMWzK0j+z63iiV
+pdxESyXGq8HFKk+vrSzvsTcuAfXPAAAAkJpl4q7xrPMaoSP4+CPg8VzEKOKTEXFkzfXs7m
+5YDBEUJ/rdjzrzKBciVGdYPTPeoUa5+u4Emg+0EXLb1c+2H3VUvO/HzqbyCPbBqW0jEpbF
+F/9Q9ht+kXtei1+kxxof0TORCbORBVz8u1uhSAcDfjYBWXcqo+jZ+j+ypfJjjhuOxJw7/B
+hlArtgjUmrh08E3w==
+-----END OPENSSH PRIVATE KEY-----
+"""
 
 def main():
     antigravity.fly()
